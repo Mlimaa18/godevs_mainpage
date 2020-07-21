@@ -1,13 +1,13 @@
 <template>
   <div class="container">
-    <h1>
-      Galactic devs
-    </h1>
+    Index
   </div>
 </template>
 
 <script>
-export default {}
+
+export default {
+}
 </script>
 
 <style scoped>
