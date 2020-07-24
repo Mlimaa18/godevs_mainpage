@@ -13,8 +13,8 @@
           </nuxt-link>
         </b-nav-item>
         <b-nav-item href="#">
-          <nuxt-link to="/quienes-somos">
-            ¿Quienes somos?
+          <nuxt-link to="/que-hacemos">
+            ¿Que Hacemos?
           </nuxt-link>
         </b-nav-item>
         <b-nav-item href="#">
